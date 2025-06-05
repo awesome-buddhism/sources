@@ -1,4 +1,29 @@
 # sources
 Documenting authentic sources gathering projects
-- [Buddhist Digital Resource Center(BDRC)](https://library.bdrc.io/buda-user-guide?uilang=en): The Buddhist Digital Resource Center shares over 28 million pages of Buddhist texts with the world, for free.
-- [Library of Tibetan Works & Archives](https://tibetanlibrary.org/tibetan-books-and-manuscript-library1/):The Tibetan books and manuscript collection holds more than 122,000 titles in the form of manuscripts, books, xylographs, documents and illuminated scriptures.
+## 🏛️ Traditional Physical Sources
+### Manuscript Sources
+- Palm Leaf Manuscripts
+- Paper Manuscripts 
+- Birch Bark Manuscripts
+### Printed Traditional Sources
+- Woodblock Prints
+- Metal Plates
+### Ritual and Art Objects
+- Thangka Paintings
+- Statuary with Inscriptions
+
+## 📚 Modern Physical Publications
+### Academic Publications
+- Scholarly Editions
+- Popular Editions
+- Facsimile Editions
+
+## 💾 Digital Text Formats
+### Structured Text Formats
+- XML/TEI Encoded Texts
+- JSON/YAML Data
+- Plain Text (UTF-8)
+### Document Formats
+- PDF Documents
+- EPUB E-books
+- Word Processing Documents 
