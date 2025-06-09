@@ -1,4 +1,4 @@
-## Buddhist Sources
+## 📚 Awesome Buddhist Sources
 ### 🏛️ Digital Archives & Repositories
 ##### Major Buddhist Digital Collections
  - [Buddhist Digital Resource Center (BDRC)](https://www.bdrc.io/):The world's largest online archive of Tibetan and Buddhist texts, holding over 27 million digitized pages. It offers free access for the global community via its Linked Open Data platform, BUDA.
